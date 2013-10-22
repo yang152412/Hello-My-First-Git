@@ -14,6 +14,8 @@
 {
     // Override point for customization after application launch.
     NSLog(@"%@",launchOptions);
+    
+    // 分支 2
     return YES;
 }
 							
