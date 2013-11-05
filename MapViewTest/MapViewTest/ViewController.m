@@ -30,8 +30,9 @@
     // 这个修改 不 commit
     
     // 创建了另一个分支
+
     NSLog(@" 制造冲突 ");
-    
+    self.view.backgroundColor = [UIColor blackColor];
 }
 
 - (void)didReceiveMemoryWarning
